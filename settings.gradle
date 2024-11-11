@@ -1,0 +1,2 @@
+rootProject.name='sdefender'
+include ':app'
